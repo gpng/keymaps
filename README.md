@@ -7,7 +7,7 @@
 1. Connect keyboard in bootloader mode
 1. `qmk flash <path to keymap json>`
    - if file is in wsl2, use `explorer.exe .` to find windows path.
-   - flash both sides of the keyboard separately, with the same command.21
+   - flash both sides of the keyboard separately, with the same command.
 
 ## How to modify keymaps
 
